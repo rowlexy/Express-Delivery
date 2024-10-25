@@ -175,7 +175,7 @@ select {
 .btn-2 {
     color: white;
     background: rgb(16, 16, 147);
-    border-color: none;
+    border-color: rgb(16, 16, 147);
 }
 
 .title {
@@ -188,7 +188,7 @@ select {
 }
 .team-lead,
 .position {
-    margin-top: 0.25em;
+    margin-top: 0.35em;
 }
 .team-lead, .address {
     font-weight: 700;
